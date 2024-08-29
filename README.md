@@ -4,7 +4,7 @@
 **Title**: A competitive fitness-distance optimizer for numerical global optimization and complex engineering problems
 
 ```
- Authors：Hongtong Xi, Qingke Zhang*, Xiaoyu Liu, Lei Lv, Huaxiang Zhang
+ Authors：Hongtong Xi, Qingke Zhang*, Xiaoyu Liu, Huixia Zhang, Lei Lv, Huaxiang Zhang
 ```
 *  School of Information Science and Engineering, Shandong Normal University, Jinan 250358, China
 
