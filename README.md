@@ -14,7 +14,6 @@ Corresponding Author:  **Qingke Zhang** ,
 -  Tel :  +86-13953128163
 
 `Note: This paper has been submitted to Elseviewer Journal "Applied Soft Computing" for revision.
-The source code mentioned in the manuscript is only for the purpose of article review and cannot be used for any other purposes without the authors' specific prior written permission.`
 
 
 ### 1.Research Introduction
