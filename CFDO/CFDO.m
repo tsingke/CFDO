@@ -1,6 +1,6 @@
 
 
-function [gbestx,gbestfitness,BestCost1] = BCB2(~,popsize,dimension,xmax,xmin,~,~,maxiter,Func,FuncId,~)
+function [gbestx,gbestfitness,BestCost1] = CFDO(~,popsize,dimension,xmax,xmin,~,~,maxiter,Func,FuncId,~)
 %% Problem Definition
 CostFunction=Func;
 nVar=dimension;                 % Number of Decision Variables
