@@ -28,7 +28,7 @@ Corresponding Author:  **Qingke Zhang** ,
 
 <img width="631" alt="image" src="https://github.com/user-attachments/assets/466a2d14-9d14-4cb0-8bae-bb3cf3e62ec4">
 
-### 3. Experimental Results（Part）
+### 3. CFDO Performance Overview
 ---
 #### CFDO VS Optimizers
 
