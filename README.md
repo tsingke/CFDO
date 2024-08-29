@@ -1,15 +1,28 @@
+# CFDO
 
-A competitive fitness-distance optimizer for numerical global optimization and engineering  problems
+
+**Title**: A competitive fitness-distance optimizer for numerical global optimization and complex engineering problems
+
+```
+ Authors：Hongtong Xi, Qingke Zhang*, Xiaoyu Liu, Lei Lv, Huaxiang Zhang
+```
+*  School of Information Science and Engineering, Shandong Normal University, Jinan 250358, China
+
+Corresponding Author:  **Qingke Zhang** , 
+
+- Email: tsingke@sdnu.edu.cn
+-  Tel :  +86-13953128163
 
 
-### 1.Brief Introduction
+
+### 1.Research Introduction
 ---
 
 <img width="677" alt="image" src="https://github.com/user-attachments/assets/b6cad459-658e-440b-a554-102919bf36ae">
 
 
 
-### 2. CFDO Algorithm
+### 2. Proposed CFDO Algorithm
 ---
 
 <img width="631" alt="image" src="https://github.com/user-attachments/assets/466a2d14-9d14-4cb0-8bae-bb3cf3e62ec4">
