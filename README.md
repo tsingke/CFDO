@@ -23,6 +23,9 @@ A competitive fitness-distance optimizer for numerical global optimization and e
 
 <img width="565" alt="image" src="https://github.com/user-attachments/assets/0862e42d-6330-47be-89e8-e66d28dfafb1">
 
+<img width="560" alt="image" src="https://github.com/user-attachments/assets/e00066b7-8760-40bd-afab-6443bd26b48b">
+
+
 <img width="552" alt="image" src="https://github.com/user-attachments/assets/bc239c5b-3078-43df-b1c6-3cd400a6a417">
 
 <img width="548" alt="image" src="https://github.com/user-attachments/assets/b3399e4a-294b-483d-85a4-841a0f2e7135">
