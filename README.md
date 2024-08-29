@@ -13,7 +13,7 @@ Corresponding Author:  **Qingke Zhang** ,
 - Email: tsingke@sdnu.edu.cn
 -  Tel :  +86-13953128163
 
-`Note: This paper has been submitted to Elseviewer Journal "Applied Soft Computing" for revision.
+`Note: This paper has been submitted to Elseviewer Journal "Applied Soft Computing" for revision.`
 
 
 ### 1.Research Introduction
